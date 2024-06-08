@@ -50,3 +50,23 @@ header h1{
   margin-right: auto;
   margin-left: auto;
 }
+
+.sec_01_content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  }
+
+  .sec_01_right{
+    width: 30%;
+    padding: 50px 0;
+  }
+
+  .sec_01_left{
+    width: 70%;
+  padding-right: 100px;
+}
+
+.sec_01_left h2{
+  margin-bottom: 10px;
+}
