@@ -1,0 +1,52 @@
+body{
+	font-weight: normal;
+	color: #333333;
+	font-family: ãƒ¡ã‚¤ãƒªã‚ª;
+	font-size: 16px;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  align-items: center;
+}
+
+img{
+	width: 100%;
+}
+
+header h1{
+  text-align: center;
+}
+
+.btn_01{
+  width: 200px;
+  text-align: center;
+  background-color: rgb(241, 91, 116);
+  color: #fff;
+  padding: 20px;
+  margin: 0 20px 0 450px;
+}
+
+.btn_02{
+  width: 200px;
+  text-align: center;
+  background-color: green;
+  color: #fff;
+  padding: 20px;
+  margin: 0 -10px;
+}
+
+.menu{
+  display: flex;
+  justify-content: space-around;
+  padding: 25px 0;  
+}
+
+.wrapper{
+  max-width: 1200px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
