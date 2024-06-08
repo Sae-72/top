@@ -110,3 +110,32 @@ header h1{
 .sec_03_right h2{
   padding-bottom: 10px;
 }
+
+.sec_04 h1{
+  padding-bottom: 15px;
+}
+
+.sec_04_left{
+  margin-bottom: 15px;
+}
+
+.sec_04_right h4{
+  margin-bottom: 5px;
+}
+
+.sec_04_content{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.content_04{
+  width: 32%;
+  display: flex;
+  flex-direction: column;
+}
+
+i{
+  font-size: small;
+  color: gray;
+}
