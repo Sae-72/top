@@ -70,3 +70,19 @@ header h1{
 .sec_01_left h2{
   margin-bottom: 10px;
 }
+
+.sec_02_content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sec_02_content p{
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+
+.sec_02 h1{
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
